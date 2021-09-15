@@ -41,4 +41,5 @@ If you want a fade-out-look for the end of your effect:
 BONUS :
 It can make a very different particle system if you set in Trail Material the "Default-Line".
 Can make an other particle system and gain time.
+--------------------------------------
 
