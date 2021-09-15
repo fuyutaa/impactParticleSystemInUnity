@@ -37,6 +37,7 @@ if you want that the particle system doesn't herit parent's transform things lik
 If you want a fade-out-look for the end of your effect:
 / Add Alpha key making it going from normal value to 0.
 
+--------------------------------------
 BONUS :
 It can make a very different particle system if you set in Trail Material the "Default-Line".
 Can make an other particle system and gain time.
